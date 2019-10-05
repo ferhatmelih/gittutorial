@@ -3,6 +3,6 @@
 
 int main()
 {
-    std::cout<<"S.a world"<<std::endl;
+    std::cout<<"selamun aleyküm "<<std::endl;
     return 0;    
 }
