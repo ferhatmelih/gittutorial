@@ -1,2 +1,5 @@
 secrets.txt
 ignore_test/
+*.png
+*.zip
+*.mp4
