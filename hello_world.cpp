@@ -13,7 +13,7 @@ void get_imu_data()
 }
 void get_visual_info()
 {
-    print_visual_info();
+    some_master_branch_work_on_visual();
 }
 int main()
 {
