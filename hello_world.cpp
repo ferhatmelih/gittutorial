@@ -14,6 +14,7 @@ void get_imu_data()
 void get_visual_info()
 {
     print_visual_info();
+    visual_branch_stupid_work();
     some_extra_visual_funcitons();
 }
 int main()
