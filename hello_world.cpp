@@ -5,6 +5,8 @@ int test()
     return 1;
 }
 
+void some_master_branch_work()
+
 void get_imu_data()
 {
     std::cout<<"0.0 0.0 0.0";
